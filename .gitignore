@@ -1,0 +1,11 @@
+bin/
+obj/
+.vscode/
+.idea/
+*.swp
+*.swo
+*.log
+*.tmp
+.env
+.env.local
+*.env.*
